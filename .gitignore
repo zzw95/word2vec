@@ -1,0 +1,7 @@
+*.zip
+*checkpoint*/
+.idea/
+*.pyc
+*.p
+*.gitignore___jb_tmp___
+data/text8
